@@ -7,7 +7,7 @@ function App() {
     <>
       <Header />
       <main>
-        
+
         <section id="sales">
           <div className="dsmeta-container">
             <SalesCard />
